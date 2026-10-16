@@ -1,0 +1,20 @@
+# Public documents and excerpts only. Keep generated and signing material out.
+*.apk
+*.aab
+*.p12
+*.jks
+*.keystore
+*.key
+*.pem
+*.base64
+*.b64
+*.class
+*.jar
+*.zip
+.env
+.env.*
+.gradle/
+build/
+example-out/
+local.properties
+.DS_Store
